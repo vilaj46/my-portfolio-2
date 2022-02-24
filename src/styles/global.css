@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "inconsolata";
+  src: url("../fonts/Inconsolata-Light.ttf");
+}
+
+@font-face {
+  font-family: "raleway";
+  src: url("../fonts/Raleway-Regular.ttf");
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
